@@ -1,0 +1,29 @@
+    1  echo $PATH
+    2  ls /
+    3  export PATH=/bin:/usr/bin
+    4  ls /
+    5  cd /etc/puppet/code/environments/production/modules/profile/manifests
+    6  cat init.pp
+    7  sudo nano init.pp
+    8  sudo puppet agent -v --test
+    9  echo $PATH
+   10  sudo puppet agent -v --test
+   11  echo $PATH
+   12  sudo nano init.pp
+   13  sudo puppet agent -v --test
+   14  echo $PATH
+   15  sudo nano init.pp
+   16  sudo puppet agent -v --test
+   17  echo $PATH
+   18  sudo nano init.pp
+   19  sudo puppet agent -v --test
+   20  sudo nano init.pp
+   21  ls /
+   22  export PATH=/bin:/usr/bin
+   23  ls /
+   24  cd /etc/puppet/code/environments/production/modules/profile/manifests
+   25  cat init.pp
+   26  sudo nano init.pp
+   27  sudo puppet agent -v --test
+   28  sudo nano init.pp
+   29  history

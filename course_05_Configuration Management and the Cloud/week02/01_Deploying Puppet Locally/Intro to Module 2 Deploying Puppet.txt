@@ -1,0 +1,27 @@
+Welcome back, congrats on making it through the
+first lab of the course. In the last module, we looked into some basic configuration
+management concepts, and what those look
+like in Puppet. In this module,
+we're going to dive deeper into how to
+use these tools. We'll kick off with
+how to install Puppet on your
+computer and how to use a simple test setup to check your rules
+work as expected. This test setup will
+let you try out the examples in these videos
+on your own computer. We'll also show you
+how to configure the typical client-server
+set-up with Puppet clients connecting and authenticating
+to the Puppet server to get the rules that they should
+apply and on top of this, we'll talk about how to use testing techniques and
+releasing best practices to safely deploy changes to clients of our configuration
+management system. You've already learned the
+basics of Puppet resources. We've seen the three most
+important resources, packages, files, and services. In this module, we'll
+check out more ways of using the basic resources
+and Puppet's DSL. We'll look into how you can apply different sets of rules to
+different nodes in your fleet, how you can organize
+your rules so that they're easier to maintain, and a bunch of other
+Puppet best-practices. We'll wrap up with
+another lab exercise. This time though, you'll be flexing your Puppet
+skills to manage the deployment and pulling the strings to make the
+system do what you want. Ready? Let's dive in.
